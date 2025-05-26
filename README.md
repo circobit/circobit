@@ -29,9 +29,9 @@ I'm a passionate SRE with over 8 years of experience building cloud infrastructu
 
 ### 💡 Projects Worth Checking
 
-- 🧰 **Kube SRE Blueprint** – My flagship SRE starter kit with Terraform + EKS + Observability (Coming soon)
-- 📦 `udacity-cloudformation-ha-webapp` – Infrastructure automation for a scalable webapp using CloudFormation
-- 🌀 `blue-green-deployment` – CI/CD project demonstrating zero-downtime strategies
+- 📊 `aws-observability-stack` – Monitoring and alerting setup for AWS infrastructure
+- 🎯 `deployment-roulette` – Exploring fault tolerance and deployment risk in practice
+- 📦 `udacity-cloudformation-ha-webapp` – HA infrastructure using AWS CloudFormation
 
 ---
 
